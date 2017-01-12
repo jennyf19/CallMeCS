@@ -1,0 +1,12 @@
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\bin\Debug\CallMeCS.exe.config
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\bin\Debug\CallMeCS.exe
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\bin\Debug\CallMeCS.pdb
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\bin\Debug\System.Management.Automation.dll
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\obj\Debug\CallMeCS.csprojResolveAssemblyReference.cache
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\obj\Debug\CallMeCS.Form1.resources
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\obj\Debug\CallMeCS.Properties.Resources.resources
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\obj\Debug\CallMeCS.csproj.GenerateResource.Cache
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\obj\Debug\CallMeCS.exe
+c:\users\jeferrie\documents\visual studio 2015\Projects\CallMeCS\CallMeCS\obj\Debug\CallMeCS.pdb
+C:\Users\jeferrie\Documents\Visual Studio 2015\Projects\CallMeCS\CallMeCS\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\jeferrie\Documents\Visual Studio 2015\Projects\CallMeCS\CallMeCS\bin\Debug\NuGet.Core.dll
